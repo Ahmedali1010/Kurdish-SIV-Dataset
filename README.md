@@ -11,7 +11,7 @@ This dataset comprises a proprietary acoustic corpus specifically developed for 
 ## Data Access
 The full acoustic corpus (86,505 utterances) is hosted on Mendeley Data. You can access and download the complete dataset via the following DOI:
 
-**DOI:** [[10.17632/7rv22xjmdx.4](https://doi.org/10.17632/7rv22xjmdx.4)](https://data.mendeley.com/drafts/7rv22xjmdx.3)
+**DOI:** [10.17632/7rv22xjmdx.4](https://doi.org/10.17632/7rv22xjmdx.4)
 
 **Citation:**
 Abdulrahman, Ayub Othman; Ali, Ahmad; jamal, Muhamad Jamal; Bakr, Zhyar (2026), “A Comprehensive Kurdish Speech Corpus for Speaker Identification and Verification in a Low-Resource Language Environment”, Mendeley Data, V4, doi: 10.17632/7rv22xjmdx.4
